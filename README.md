@@ -22,4 +22,4 @@
   
 </div>
 
-![Snake animation](https://github.com/koalamonteiro/koalamonteiro/blob/output/github-contribution-grid-snake.svg)
+
