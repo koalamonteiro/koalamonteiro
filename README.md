@@ -23,5 +23,5 @@
   <a href="https://www.linkedin.com/in/mariana-monteiro-5abb4727a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/200becbc-2eb9-4108-878b-f83ca5985711" />
-" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/200becbc-2eb9-4108-878b-f83ca5985711" />
+
