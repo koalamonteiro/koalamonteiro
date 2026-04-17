@@ -23,5 +23,5 @@
   <a href="https://www.linkedin.com/in/mariana-monteiro-5abb4727a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
- <img align="center" height="30" width="40" src="https://github.com/koalamonteiro/koalamonteiro/blob/output/github-contribution-grid-snake.svg" />
-![Snake animation]"https://github.com/koalamonteiro/koalamonteiro/blob/output/github-contribution-grid-snake.svg" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/200becbc-2eb9-4108-878b-f83ca5985711" />
+" />
