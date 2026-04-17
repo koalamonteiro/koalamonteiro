@@ -11,7 +11,8 @@
   <img align="center" alt="koala-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="koala-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="koala-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
- <img align="center" alt="koala-mysql" height="30" width="40" src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/634b0c61-1783-4fab-84cb-37d9f2f4bbab" />
+ ##
+ <img align="center" alt="koala-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 " />
 </div>
 
